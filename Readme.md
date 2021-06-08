@@ -29,7 +29,7 @@ was challenging in managing multiple activities and authentication.
 4. How to navigate between activities using intents
 5. The activity life cycle
 
-## How to used
+## How to use
 An Apk is available if you want to run on your device
 or you could use an adb emulator to run but you will have
 to download Android Studio.
